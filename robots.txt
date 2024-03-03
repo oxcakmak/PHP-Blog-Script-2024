@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: 
+Disallow: /admin
+Disallow: /assets
+Disallow: /core
+Disallow: /index
+
+Sitemap: https://localhost/sitemap.xml
